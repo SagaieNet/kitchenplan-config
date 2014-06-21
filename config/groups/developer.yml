@@ -48,9 +48,10 @@ attributes:
             - git-flow
             - siege
             - watch
-            - rsync
+#            - rsync - stange error
         cask_apps:
             - imageoptim
             - imagealpha
             - sequel-pro
             - sourcetree
+            - coda
