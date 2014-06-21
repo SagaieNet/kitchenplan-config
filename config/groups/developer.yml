@@ -52,6 +52,5 @@ attributes:
         cask_apps:
             - imageoptim
             - imagealpha
-            - phpstorm
             - sequel-pro
             - sourcetree
