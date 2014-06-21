@@ -27,7 +27,7 @@ attributes:
     dotfiles:
         vimusers:
             - root
-            - roderik
+            - olivier
         kdeploy:
             hostname: dev
         vim:
@@ -43,7 +43,7 @@ attributes:
         name: Olivier Scherrer
         email: oscherrer@gmail.com
     osxdefaults:
-        computername: iMac
+        computername: Server
     authorization:
         sudo:
             users:
@@ -52,6 +52,11 @@ attributes:
             include_sudoers_d: true
     homebrewalt:
         cask_apps:
+            - kindle
+            - ccleaner
+            - carbon-copy-cloner
+            - appcleaner
+            - a-better-finder-rename
             - onepassword
             - dropbox
             - evernote
